@@ -1,2 +1,2 @@
 # ecommerce
-Laravel - livewire
+Laravel8 - livewire
