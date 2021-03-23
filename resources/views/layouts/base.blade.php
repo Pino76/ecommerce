@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/flexslider.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/chosen.min.css') }}">
+    {{--<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/chosen.min.css') }}">--}}
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/color-01.css') }}">
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
