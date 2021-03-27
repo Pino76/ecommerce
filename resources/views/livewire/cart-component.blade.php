@@ -8,7 +8,7 @@
                 <li class="item-link"><span>Cart</span></li>
             </ul>
         </div>
-        <div class=" main-content-area">
+        <div class="main-content-area">
             <div class="wrap-iten-in-cart">
                 @if(Session::has('success_message'))
                     <div class="alert alert-success">
